@@ -13,4 +13,3 @@ we can also have a hot fix branch which can be used to patchup a bug in software
 this is uchiha massacre where Itachi Uchiha massacred his whole clan \
 in cold blood tho little is known about the powerful uchiha his brother sasuke \
 is the only remaining survivor of the fallout
-this is a next line this should disappear
